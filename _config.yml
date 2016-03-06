@@ -1,6 +1,6 @@
 name: 'Lew L. Humiston, IV'
 favicon: null
-layout_spectrum: 0.623910806607455
+layout_spectrum: 1
 typography_spectrum: 0.7421292837243527
 title: 'Tortured Bard '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.05085653648711741
-  lightness: 0.24800467072054744
+  brandStrength: 0.5
+  lightness: 0.625
   saturation: 0.7382657225243747
   rhythmicContrast: 0.12477353122085333
 purpose: []
